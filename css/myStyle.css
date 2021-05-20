@@ -1,0 +1,23 @@
+.carlogo{
+    width: 100px;
+}
+
+.cartitle{
+    text-align: center;
+    
+    color: rgb(19, 97, 71);
+}
+
+.formEnquiries{
+    background-color: lightgray;
+    padding: 20px;
+} 
+
+.imgstyle > img{
+    border-radius:10% 10% 0 10%;
+} 
+.container{
+    margin-top: 10px;
+
+}
+
