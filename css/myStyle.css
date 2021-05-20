@@ -4,8 +4,13 @@
 
 .cartitle{
     text-align: center;
-    
+    margin-top: 20px;
     color: rgb(19, 97, 71);
+}
+
+.car-sm-title{
+    color: rgb(19, 97, 71);
+
 }
 
 .formEnquiries{
@@ -15,6 +20,8 @@
 
 .imgstyle > img{
     border-radius:10% 10% 0 10%;
+    width: 100%;
+    
 } 
 .container{
     margin-top: 10px;
